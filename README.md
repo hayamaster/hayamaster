@@ -8,7 +8,7 @@
 
 <div align="center">
 	<h2>📚 Tech Stack 📚</h2>
-	<div style={display:flex}>
+	<div style="margin-top: 30px">
 		<p>✨ Platforms & Languages ✨</p>
 		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 		<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -32,7 +32,7 @@
 		<img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white" />
 		<img src="https://img.shields.io/badge/gnubash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
 	</div>
-	<div>
+	<div margin="20px">
 		<p>🛠 Tools 🛠<p>
 		<img src="https://img.shields.io/badge/visualstudiocode-5C2D91?style=flat&logo=visualstudiocode&logoColor=white" />
 		<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white" />
@@ -40,6 +40,7 @@
 		<br/>
 		<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
 		<img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white" />
+		<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
 	</div>
 </div>
 <!--
