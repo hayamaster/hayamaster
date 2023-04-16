@@ -32,7 +32,8 @@
 		<img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white" />
 		<img src="https://img.shields.io/badge/gnubash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
 	</div>
-	<div style="margin-top: 30px;">
+	<br/>
+	<div>
 		<p>🛠 Tools 🛠<p>
 		<img src="https://img.shields.io/badge/visualstudiocode-5C2D91?style=flat&logo=visualstudiocode&logoColor=white" />
 		<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white" />
