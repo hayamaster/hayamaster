@@ -28,6 +28,7 @@
 		<br/>
 		<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 		<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+		<img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white" />
 		<br/>
 		<img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white" />
 		<img src="https://img.shields.io/badge/gnubash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
