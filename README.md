@@ -13,6 +13,9 @@
 	<img src="https://img.shields.io/badge/svelte-FF3E00?style=flat&logo=svelte&logoColor=white"/>
 	<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 	<br/>
+	<img src="https://img.shields.io/badge/webgl-990000?style=flat&logo=webgl&logoColor=white"/>
+	<img src="https://img.shields.io/badge/opengl-5586A4?style=flat&logo=opengl&logoColor=white"/>
+	<br/>
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
 	<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
