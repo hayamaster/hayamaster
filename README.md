@@ -8,7 +8,7 @@
 
 <div align="center">
 	<h2>📚 Tech Stack 📚</h2>
-	<div style="margin-top: 30px">
+	<div style="margin-top: 30px;">
 		<p>✨ Platforms & Languages ✨</p>
 		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 		<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
