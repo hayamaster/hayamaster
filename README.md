@@ -13,6 +13,12 @@
 	<img src="https://img.shields.io/badge/svelte-FF3E00?style=flat&logo=svelte&logoColor=white"/>
 	<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 	<br/>
+	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
+	<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+	<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+	<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
+	<br/>
+	<img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<br/>
 	<img src="https://img.shields.io/badge/gnubash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
