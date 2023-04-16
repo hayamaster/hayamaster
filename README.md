@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90) -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=150&section=header&text=Hayamaster&fontSize=90" />
 ### Hi there 👋
 
 <!--
