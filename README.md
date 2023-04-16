@@ -8,7 +8,7 @@
 
 <div align="center">
 	<h2>📚 Tech Stack 📚</h2>
-	<div style="margin-top: 30px;">
+	<div>
 		<p>✨ Platforms & Languages ✨</p>
 		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 		<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -32,7 +32,7 @@
 		<img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white" />
 		<img src="https://img.shields.io/badge/gnubash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
 	</div>
-	<div margin="20px">
+	<div style="margin-top: 30px;">
 		<p>🛠 Tools 🛠<p>
 		<img src="https://img.shields.io/badge/visualstudiocode-5C2D91?style=flat&logo=visualstudiocode&logoColor=white" />
 		<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white" />
