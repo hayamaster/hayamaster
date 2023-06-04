@@ -44,10 +44,13 @@
 		<img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white" />
 		<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
 	</div>
+	<a href="s">
+  		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+	</a>
 	
 	<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=hayamaster&theme=tokyonight&show_icons=true" width="42%" />
-</a>
+  		<img src="https://github-readme-stats.vercel.app/api?username=hayamaster&theme=tokyonight&show_icons=true" width="42%" />
+	</a>
 </div>
 <!--
 **hayamaster/hayamaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
