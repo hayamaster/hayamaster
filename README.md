@@ -44,7 +44,7 @@
 		<img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white" />
 		<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
 	</div>
-	<img src="https://raw.githubusercontent.com/hayamaster/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayamaster)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!--
 **hayamaster/hayamaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
