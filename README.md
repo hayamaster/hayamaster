@@ -45,11 +45,9 @@
 		<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
 	</div>
 	
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayamaster)](https://github.com/hayamaster/github-readme-stats)
-	<div>
-		
-		[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-	</div>
+	<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=hayamaster&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 </div>
 <!--
 **hayamaster/hayamaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
