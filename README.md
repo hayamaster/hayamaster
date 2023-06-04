@@ -45,7 +45,7 @@
 		<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
 	</div>
 	<a href="s">
-  		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayamaster&exclude_repo=hayamaster.github.io&layout=compact&theme=tokyonight" />
 	</a>
 	
 	<a href="s">
