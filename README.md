@@ -5,11 +5,11 @@
 
 ### Hi there 👋
 
-<div>
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
-</div>
 
 <div align="center">
+	<div>
+		<![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayamaster&layout=compact&theme=tokyonight)>
+	</div>
 	<h2>📚 Tech Stack 📚</h2>
 	<div>
 		<p>✨ Platforms & Languages ✨</p>
