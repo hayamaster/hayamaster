@@ -12,7 +12,7 @@
 	</div>
 	<div>
 		![hayamaster's GitHub stats]
-		<a>(https://github-readme-stats.vercel.app/api?username=hayamaster&show_icons=true&theme=스타일)</a>
+		<img src=https://github-readme-stats.vercel.app/api?username=hayamaster&show_icons=true&theme=tokyonight/>
 	</div>
 	<h2>📚 Tech Stack 📚</h2>
 	<div>
