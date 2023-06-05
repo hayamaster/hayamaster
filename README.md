@@ -5,6 +5,9 @@
 
 ### Hi there 👋
 
+<div>
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
+</div>
 
 <div align="center">
 	<h2>📚 Tech Stack 📚</h2>
@@ -45,9 +48,6 @@
 		<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
 	</div>
 <!-- 	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayamaster)](https://github.com/hayamaster/github-readme-stats) -->
-	<div>
-		![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
-	</div>
 </div>
 <!--
 **hayamaster/hayamaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
