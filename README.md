@@ -9,7 +9,7 @@
 <div align="center">
 	<div>
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayamaster&layout=compact&theme=tokyonight"/>
-		<img src=https://github-readme-stats.vercel.app/api?username=hayamaster&show_icons=true&theme=tokyonight/>
+		<img src=https://github-readme-stats.vercel.app/api?username=hayamaster&show_icons=true&theme=gruvbox/>
 	</div>
 	<h2>📚 Tech Stack 📚</h2>
 	<div>
