@@ -45,6 +45,7 @@
 		<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
 	</div>
 <!-- 	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayamaster)](https://github.com/hayamaster/github-readme-stats) -->
+	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayamaster&show_icons=true&theme=radical)
 	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayamaster&layout=compact)](https://github.com/hayamaster/github-readme-stats)
 </div>
 <!--
