@@ -11,7 +11,8 @@
 		![hayamaster Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayamaster&layout=compact&theme=tokyonight)
 	</div>
 	<div>
-		![hayamaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayamaster&show_icons=true&theme=스타일)
+		![hayamaster's GitHub stats]
+		<a>(https://github-readme-stats.vercel.app/api?username=hayamaster&show_icons=true&theme=스타일)</a>
 	</div>
 	<h2>📚 Tech Stack 📚</h2>
 	<div>
