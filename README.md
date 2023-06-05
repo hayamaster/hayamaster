@@ -10,6 +10,9 @@
 	<div>
 		![hayamaster Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayamaster&layout=compact&theme=tokyonight)
 	</div>
+	<div>
+		(https://github-readme-stats.vercel.app/api?username=hayamaster&show_icons=true&theme=스타일)
+	</div>
 	<h2>📚 Tech Stack 📚</h2>
 	<div>
 		<p>✨ Platforms & Languages ✨</p>
