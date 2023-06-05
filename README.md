@@ -8,7 +8,7 @@
 
 <div align="center">
 	<div>
-		<![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayamaster&layout=compact&theme=tokyonight)>
+		![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayamaster&layout=compact&theme=tokyonight)
 	</div>
 	<h2>📚 Tech Stack 📚</h2>
 	<div>
