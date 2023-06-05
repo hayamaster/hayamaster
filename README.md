@@ -48,7 +48,9 @@
 	
 	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayamaster&layout=compact)](https://github.com/hayamaster/github-readme-stats)
 </div>
+<a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayamaster&show_icons=true&theme=tokyonight)
+</a>
 <!--
 **hayamaster/hayamaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
